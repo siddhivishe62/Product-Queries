@@ -17,4 +17,5 @@ This project creates a `products` table in MySQL, imports data from a CSV, and r
    USE codtech_sql_task;
    SOURCE products_table.sql;
 3.Run queries:
+
 SOURCE queries.sql;
