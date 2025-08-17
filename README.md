@@ -8,9 +8,9 @@ SQL Table Creation and Queries
 
 *INTERN ID*: CT08DH665
 
-*DOMAIN*: DATA ANALYTICS
+*DOMAIN*: SQL
 
-*DURATION*: 8 Weeks
+*DURATION*: 6 Weeks
 
 *MENTOR* : NEELA SANTOSH
 
