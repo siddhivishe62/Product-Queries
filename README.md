@@ -2,6 +2,18 @@
 SQL Table Creation and Queries  
 # CodTech SQL Task 2 - Product Queries
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHI RAMESH VISHE
+
+*INTERN ID*: CT08DH665
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 8 Weeks
+
+*MENTOR* : NEELA SANTOSH
+
 This project creates a `products` table in MySQL, imports data from a CSV, and runs queries for product analysis.
 
 ## 📂 Files
